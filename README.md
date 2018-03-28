@@ -13,7 +13,7 @@ A pretrained model is available here:
 ## Looking for CNN / Daily Mail data?
 Instructions are [here](https://github.com/abisee/cnn-dailymail).
 
-## Looking for vietnamses data?
+## Looking for Vietnamese data?
 Instructions are [here](https://github.com/CongSon1293/prepare_data_for_pointer_generator).
 
 ## About this code
