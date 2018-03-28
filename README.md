@@ -13,6 +13,9 @@ A pretrained model is available here:
 ## Looking for CNN / Daily Mail data?
 Instructions are [here](https://github.com/abisee/cnn-dailymail).
 
+## Looking for Vietnamese data?
+Instructions are [here](https://github.com/CongSon1293/prepare_data_for_pointer_generator).
+
 ## About this code
 This code is based on the [TextSum code](https://github.com/tensorflow/models/tree/master/textsum) from Google Brain.
 
