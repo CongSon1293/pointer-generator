@@ -1,0 +1,1 @@
+python run_summarization.py --mode=train --data_path=finished_files/chunked/train_* --vocab_path=finished_files/vocab --log_root=result --exp_name=nobita_test --hidden_dim=128 --emb_dim=128 --max_enc_steps=500 --max_dec_steps=100 --vocab_size=122016
